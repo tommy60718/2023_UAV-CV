@@ -1,3 +1,34 @@
+## LAB05
+1. Aruco marker dection
+   1. calibrate the drone camera
+   2. marker detection by drone camera
+   3. pose estimation ![截圖 2024-01-14 凌晨1 13 53](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/1de20708-e45a-487b-9ec9-27fc3c3b3d5f)
+2. Tello drone (distance detection)
+3. ![截圖 2024-01-14 凌晨1 17 25](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/7fd35d1e-c6a8-4e4a-adc3-aae4cd808ec1)
+
+## LAB06
+1. 無人機手動控制
+2. 無人機自動追蹤
+    1. Calibration
+    2. PID control
+    3. Using Tello drone functions: drone.send_rc_control(x_update,z_update,y_update,yaw_update)
+
+## LAB07 & midterm
+![截圖 2024-01-14 凌晨1 22 16](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/1e6ddc58-28b6-43f6-b8f1-f00111367d7f)
+![截圖 2024-01-14 凌晨1 22 20](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/ee5da9bf-e557-45cd-804f-eeda30594e15)
+![截圖 2024-01-14 凌晨1 22 23](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/bca06d9c-c30c-4118-881f-f476f39d2d0c)
+![截圖 2024-01-14 凌晨1 22 26](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/c5703919-a2d1-400c-97d5-31034b8912e2)
+
+## LAB10 
+1. 追線
+    1. grey scale (LAB01)
+    2. Otsu threshold (LAB02)
+    3. technique to chasing the black line.
+        https://www.youtube.com/watch?v=LmEcyQnfpDA
+       ![截圖 2024-01-14 凌晨1 28 08](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/214a243a-2d42-4bc3-b3d3-cde5396709dc)
+
+
+
 # Tello-Video
 
 This is an example using the Tello SDK v1.3.0.0 and above to receive video stream from Tello camera,decode the video stream and show the image by GUI.
