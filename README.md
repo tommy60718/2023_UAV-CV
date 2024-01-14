@@ -55,6 +55,17 @@
 ![截圖 2024-01-14 凌晨1 22 23](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/bca06d9c-c30c-4118-881f-f476f39d2d0c)
 ![截圖 2024-01-14 凌晨1 22 26](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/c5703919-a2d1-400c-97d5-31034b8912e2)
 
+## LAB08
+1.Using HOG(Histogram of Oriented Gradient) to detect & enclose body & face
+
+  • image = cv2.rectangle(image, start_point, end_point, color, thickness)
+  
+2.Detect the size of the body
+
+3.Detect the distance of the face
+![IMG_1949](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/2dc1bf31-ffa4-4b88-b2f1-549f79898574)
+
+
 ## LAB10 
 1. 追線
     1. grey scale (LAB01)
