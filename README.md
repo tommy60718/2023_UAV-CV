@@ -74,6 +74,6 @@
     2. Otsu threshold (LAB02)
     3. technique to chasing the black line.
         https://www.youtube.com/watch?v=LmEcyQnfpDA
-       ![截圖 2024-01-14 凌晨1 28 08](https://github.com/tommy60718/2023_UAV-CV/assets/128281234/214a243a-2d42-4bc3-b3d3-cde5396709dc)
+        <img width="911" alt="截圖 2024-03-10 下午1 34 02" src="https://github.com/tommy60718/2023_UAV-CV/assets/128281234/cabdf0b6-aaa2-4a96-b32f-291cc6eb5248">
 
 
