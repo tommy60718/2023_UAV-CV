@@ -3,6 +3,14 @@
 2. Each directory contains a README file; please refer to it for further details.
 - by NYCU, Yang Sen Lin
 
+### Challenges and Solutions:
+1. **Efficiency**:
+  - Challenge: The computational load of the image processing algorithm caused delays in the drone's operation.
+  - Solution: After researching ray tracing techniques online and deciding against them, we ultimately designed a new algorithm with the team that reduced the computation time to 1/n of the original.
+
+2. **Stability**:
+  - Challenge: The drone's flight speed and turning were unstable.
+  - Solution: Through multiple flight tests, we developed an algorithm that corrects deviations in real-time to within 3 centimeters.
 
 ## LAB01
 1. OpenCV introduction
